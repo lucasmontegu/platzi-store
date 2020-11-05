@@ -10,7 +10,7 @@ git:
 script:
   - yarn build
 notifications:
-  slack: deploy-portfolio:X0JU2Q3XMP6FP5JAhzcl1RRo
+  slack: handy:X0JU2Q3XMP6FP5JAhzcl1RRo
   email:
     recipients:
       - lmontegu@gmail.com
